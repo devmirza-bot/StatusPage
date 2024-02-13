@@ -11,8 +11,8 @@ Simple Status Page/Response Time Site
 ## 🚥 Current status
 
 <!-- <downtime-status> -->
-![Main Site](/status/toxicdev.me-443.svg)
-![Docs Site](/status/help.toxicdev.me-443.svg)
-![My Code Bin](/status/source.toxicdev.me-443.svg)
-![My API](/status/api.toxicdev.me-443.svg)
+![Google](/status/google.com-443.svg)
+![Facebook](/status/facebook.com-443.svg)
+![Threads](/status/threads.net-443.svg)
+![YouTube](/status/youtube.com-443.svg)
 <!-- <downtime-status/> -->
