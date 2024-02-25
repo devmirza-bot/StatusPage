@@ -5,10 +5,6 @@
 hosts:
   - name: google.com
     title: Google
-  - name: facebook.com
-    title: Facebook
-  - name: threads.net
-    title: Threads
   - name: youtube.com
     title: YouTube
 
