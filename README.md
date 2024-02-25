@@ -12,7 +12,5 @@ Simple Status Page/Response Time Site
 
 <!-- <downtime-status> -->
 ![Google](/status/google.com-443.svg)
-![Facebook](/status/facebook.com-443.svg)
-![Threads](/status/threads.net-443.svg)
 ![YouTube](/status/youtube.com-443.svg)
 <!-- <downtime-status/> -->
