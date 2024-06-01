@@ -7,6 +7,8 @@ hosts:
     title: Google
   - name: youtube.com
     title: YouTube
+  - name: facebook.com
+    title: Facebook
 
 # Site configuration
 site:
